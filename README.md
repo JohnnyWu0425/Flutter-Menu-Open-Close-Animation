@@ -1,6 +1,8 @@
-# guillotinemenu
+# Flutter Menu Open & Close Explicit Animation Example
 
-A new Flutter application.
+Screen Capture |
+-------------- |
+![screen capture](https://github.com/JohnnyWu0425/Flutter-Menu-Open-Close-Animation/blob/master/screen%20capture.mov) |
 
 ## Getting Started
 
