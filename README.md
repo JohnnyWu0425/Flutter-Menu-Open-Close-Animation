@@ -4,7 +4,7 @@ Ref: [Dribble](https://dribbble.com/shots/2018249-Guillotine-Menu?list=users&off
 
 Screen Capture |
 -------------- |
-![screen capture](https://github.com/JohnnyWu0425/Flutter-Menu-Open-Close-Animation/blob/master/screen%20capture.mov) |
+![screen capture](https://github.com/JohnnyWu0425/Flutter-Menu-Open-Close-Animation/blob/master/video.gif) |
 
 ## Getting Started
 
